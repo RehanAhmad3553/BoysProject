@@ -29,6 +29,15 @@ public class MainActivity extends AppCompatActivity {
         setContentView(binding.getRoot());
 
 
+        Toast.makeText(this, "First Toast", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "First Toast", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "First Toast", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "First Toast", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "First Toast", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "First Toast", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "First Toast", Toast.LENGTH_SHORT).show();
+
+
 
 
 
